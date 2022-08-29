@@ -1,17 +1,17 @@
 # Lexicon machine
 
-The lexicon machine is stored in the file *lexikonautomat.py*. The state class is located in the file ** state.py **.
+The lexicon machine is stored in the file **lexikonautomat.py**. The state class is located in the file **state.py**.
 
 ## main program
 
 ### Start of the program
 
-The main program is stored in the file ** main.py **. The program can be started without command line arguments.
+The main program is stored in the file **main.py**. The program can be started without command line arguments.
 After calling the program, the user has the option of either loading the lexicon automaton from a saved file (using the "load" option) or constructing it from a word list (using the "wordlist" option). If the user selects the option to load the lexicon automaton from a word list, he is asked to enter a text file from which the word list is to be read.
 
 The text file with the word list consists of words that are line by line (separated by newlines).
 
-* possible error messages *:
+*possible error messages*:
 
 * If there is no saved machine, the user will be informed and asked to initialize the machine with the help of a word list.
 
@@ -33,7 +33,7 @@ After entering an option, the main menu appears again and the user can enter fur
 
 * If an invalid option is entered, the user is made aware of this and asked to enter a valid option.
 
-** Implemented extensions **:
+**Implemented extensions**:
 
 * graphic representation
 * Language of the encyclopedia
