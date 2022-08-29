@@ -1,6 +1,6 @@
 # Lexicon machine
 
-The lexicon machine is stored in the file ** lexikonautomat.py **. The state class is located in the file ** state.py **.
+The lexicon machine is stored in the file *lexikonautomat.py*. The state class is located in the file ** state.py **.
 
 ## main program
 
